@@ -7,10 +7,10 @@ Decentralized car sharing, made fun
 ## What is VOLT
  DECAF is decentralized, so everyone can make use of it and develop their own implementation. VOLVO TOKEN is what we propose VOLVO to implement, creating a front-end to interact with our API. This app looks more like a game than a boring car sharing app that just takes you from A toB.
 ## Where is the fun in Car-Sharing
-- DECAF is more than a way to request car. DECAF is fun, is adventure, is powering up your life by satisfying the gamer in you, it's connecting people.
-### XP, Tokens, Levels
+ DECAF is more than a way to request car. DECAF is fun, is adventure, is powering up your life by satisfying the gamer in you, it's connecting people.
+#### XP, Tokens, Levels
   By using DECAF, you can participate in certain *quests*, can complete *acheivements* or just win *XP* by using the platform. All this amounts to *XP* that can make you *level up*. Just showing up in front of your friends on the *Leaderboard* would be rewarding, but there's more to it. DECAF is also a token which you can win by driving, sharing the car with people who are going the same way, passing in quests or unlocking certain acheivements. These tokens can then be used to get discounts or even free rides, get discounts in, for example, VOLVO experiencies (free museum visit, free oil change) or restaurants/hotels/etc that want to partner with our platform. 
-### Saving by socializing
+#### Saving by socializing
   If you are requesting a car, you have the option to tell were you are heading. If there's a person heading or planning to go the same way, both can drive together to share the expense. Each can see the profiles, see if you have common interests.
   
 ## Decentralized
