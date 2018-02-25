@@ -64,28 +64,58 @@
           <p style="margin-top: 18px; font-size: 18px; padding-right: 8px; color: #1b1b1b; font-weight: 500;">62 VOLT</p>
         </div>
       </header>
-     <main class="mdl-layout__content mdl-color--grey-100" style="text-align:center;"> 
+     <main class="mdl-layout__content mdl-color--grey-100" style="text-align:center; padding-top: 30px;"> 
 <br>
 
 <div style="text-align:center;display:inline-block;">
 	<form action="#">
   		<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-    			<input class="mdl-textfield__input" type="text" id="sample3">
-    			<label class="mdl-textfield__label" for="sample3">Where do you wanna go?</label> </div>
-<button class="mdl-button mdl-button--raised mdl-js-button dialog-button" style="height: 27px"><i class="material-icons" style="margin-top:-10px">search</i></button> 
+    			<input class="mdl-textfield__input" type="text" id="sample3" style="font-size: 22px;">
+    			<label class="mdl-textfield__label" for="sample3" style="font-size: 22px;">Where do you wanna go?</label> </div>
+<button class="mdl-button mdl-button--raised mdl-js-button dialog-button" style="height: 45px; margin-bottom: 10px;"><i class="material-icons">search</i></button> 
 	</form> </div>
 <div>
-<button class="mdl-button mdl-js-button mdl-button--raised" style="width: 89%;">
+<button class="mdl-button mdl-js-button mdl-button--raised" style="width: 89%; font-size: 22px; height: 44px; font-weight: 400;">
   NONE OF YOUR BUSINESS!
 </button>
 </div>
 <dialog id="dialog" class="mdl-dialog" style="width:85%;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21593.052893379263!2d9.373770581055542!3d47.428876983845406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b1e464af2dfb9%3A0xac965fa20ac903d4!2sUniversity+of+St.+Gallen!5e0!3m2!1spt-PT!2sch!4v1519522302978" width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
-  <div class="mdl-dialog__actions">
-    <button type="button" class="mdl-button">Cancel</button>
-<button type="button" class="mdl-button">Cancel</button>
+  <div class="mdl-dialog__actions" style="padding-left: 8px;">
+    <button type="button" class="mdl-button mdl-button--raised">Cancel</button>
+    <div class="mdl-layout-spacer"></div>
+    <button type="button" class="mdl-button mdl-button--raised">Go!</button>
   </div>
 </dialog>
+
+
+
+
+<div class="mdl-grid demo-content">
+  <div class="demo-separator mdl-cell--1-col" style="height: 24px;"></div>  
+  <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
+      <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop" style="min-height: 0;">
+        <div class="mdl-card__title" style="background-color: #582f6e  !important;">
+          <h2 class="mdl-card__title-text">Tip of the day...
+          </h2>
+        </div>
+        <div class="mdl-card__supporting-text mdl-color-text--grey-600" style="text-align: left;">
+          <p style="font-size: 18px;">
+            When you share your ride with multiple friends, you all earn more XP, and there's a chance you'll earn a lucky <b>VOLT</b>...
+          </p>
+        </div>
+        <div class="mdl-card__actions mdl-card--border" style="text-align: right;">
+            <button class="mdl-button mdl-js-button mdl-button--primary" style="color: #582f6e;">
+              Find friends
+            </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+
 </main>
       <footer class="fixed-bottom mdl-color--grey-100" style="text-align: center; min-height: 90px; box-shadow: 0 -3px 2px 0 rgba(0,0,0,.14), 0 -3px 1px -2px rgba(0,0,0,.2), 0 0px 5px 0 rgba(0,0,0,.12); z-index: 4;">
         <div style="display: inline-block; padding: 5px 15px;">
