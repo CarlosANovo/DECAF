@@ -30,7 +30,7 @@
    **Volvo token** is how we imagine a car manufacturer implementing on top of our platform. The company will add cars to our platform that can then be requested by our users. They can also add quests and achievements to be completed by the users to improve **UX** by gamification and make people want to use their services over their competitors. If a user levels-up in the game, **Volvo** will give them tokens to award them for their fidelity by offering **VOLT**, the same being true if a user completes a certain special **Volvo** quest.
    This app adds fun and rewards to car sharing, making car sharing a service people will love to use.
    
-   CHeck
+   Check the [Ethereum Smart Contract](https://github.com/CarlosANovo/DECAF/blob/master/Ethereum%20Smart%20Contract/VOLT.sol).
    
    ###### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
    
