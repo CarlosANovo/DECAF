@@ -70,25 +70,74 @@
 
       <main class="mdl-layout__content mdl-color--grey-100">
       	   <img src="./images/shopping_cart.png" style="margin:auto; width:200px;display:block; margin-bottom: -14px; margin-top: 11px" /> 
-        <div class="mdl-grid demo-content"  >
-        <img src="./images/quest1.png" style="margin:auto; width:375px; height:200px; display:block; /*margin-bottom: 20px; */margin-top: 25px" /> 
-        <img src="./images/quest2.png" style="margin:auto; width:375px; height:200px; display:block; /*margin-bottom: 20px; */margin-top: 30px" /> 
-         <img src="./images/quest3.png" style="margin:auto; width:375px; height:200px; display:block; /*margin-bottom: 20px; */margin-top: 30px" /> 
+           <style>
+.demo-card-square.mdl-card {
+  width: 380px;
+  height: 250px;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('./images/shop1.jpg') bottom right 15% no-repeat #46B6AC;
+}
+</style>
+
+<div class="demo-card-square mdl-card mdl-shadow--2dp" style="/* margin: auto; */margin: 20px auto;">
+  <div class="mdl-card__title mdl-card--expand" style=" background: url('./images/shop1.jpg') right  bottom 48% no-repeat #46B6AC; background-size: cover;">
+    <h2 class="mdl-card__title-text">Dinner</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    A romantic dinner for two in one of our partners. <br>200 VOLT
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" data-upgraded=",MaterialButton,MaterialRipple">
+      View offer
+    <span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
+  </div>
+</div>
+<div class="demo-card-square mdl-card mdl-shadow--2dp" style="/* margin: auto; */margin: 20px auto;">
+  <div class="mdl-card__title mdl-card--expand" style=" background: url('./images/shop2.jpg') right  bottom 48% no-repeat #46B6AC; background-size: cover;">
+    <h2 class="mdl-card__title-text">Zoo</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+   Free entry at Zurich's Zoo. <br> 100 VOLT
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" data-upgraded=",MaterialButton,MaterialRipple">
+      View offer
+    <span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
+  </div>
+</div>
+<div class="demo-card-square mdl-card mdl-shadow--2dp" style="/* margin: auto; */margin: 20px auto;">
+  <div class="mdl-card__title mdl-card--expand" style=" background: url('./images/shop3.jpg') right  bottom 90% no-repeat #46B6AC; background-size: cover;">
+    <h2 class="mdl-card__title-text">Car maintenance</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    Discount on your next scheduled maintenance. <br>50 VOLT
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" data-upgraded=",MaterialButton,MaterialRipple">
+      View offer
+    <span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></a>
+  </div>
+</div>
+</div>
+       
       </main>
       <footer class="fixed-bottom mdl-color--grey-100" style="text-align: center; min-height: 90px; box-shadow: 0 -3px 2px 0 rgba(0,0,0,.14), 0 -3px 1px -2px rgba(0,0,0,.2), 0 0px 5px 0 rgba(0,0,0,.12); z-index: 4;">
-          <div style="display: inline-block; padding: 5px 15px;">
-            <a href="./page1.html"><i class="fa fa-compass" style="color: #666; font-size: 75px;"></i></a>
-          </div>
-          <div style="display: inline-block; padding: 5px 15px;">
-            <a href="./social.html"><i class="fa fa-globe" style="color: #666; font-size: 75px;"></i></a>
-          </div>
-          <div style="display: inline-block; padding: 5px 15px;">
-            <a href="./leaderboard.html"><img src="./images/podium.png" style="width: 70px; height: auto; margin-top: -35px; image-rendering: -webkit-optimize-contrast;"></i></a>
-          </div>
-          <div style="display: inline-block; padding: 5px 15px;">
-            <a href="./shop.html"><i class="fa fa-shopping-cart" style="color: #000; font-size: 75px;"></i></a>
-          </div>
-        </footer>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-compass" style="color: #666; font-size: 75px;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-globe" style="color: #666; font-size: 75px;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <img src="./images/podium.png" style="width: 70px; height: auto; margin-top: -35px; image-rendering: -webkit-optimize-contrast;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-shopping-cart" style="color: #000; font-size: 75px;"></i>
+        </div>
+      </footer>
     </div>
     <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   </body>
