@@ -1,9 +1,9 @@
 # VOLT powered by DECAF
 
-## Inspiration
+### Inspiration
    Not a single car sharing service today really connects to you. You enter the car, go wherever you want and get off the car. It's not fun. People are changing from ownership to usership, but these services are not as fun and immersive as they should. **Volvo** proposed us to find a way to gamify the car sharing service and **Swisscom** challenged us to create **a platform that performs a digital representation of an asset as a data-bound utility token that can be used within our platform**. Our solution is both **DECAF and VOLT**, which work together to provide the people a decentralized car-sharing platform that makes our inner gamer smile.
    
-## What does it do?
+### What does it do?
 
  ### DECAF
 
@@ -31,13 +31,14 @@
    This app adds fun and rewards to car sharing, making car sharing a service people will love to use.
    
    Check the [Ethereum Smart Contract](https://github.com/CarlosANovo/DECAF/blob/master/Ethereum%20Smart%20Contract/VOLT.sol).
+   It was published to [0xbbd49bd432dc262838f7bb0ce41506c8374c2d12](https://ropsten.etherscan.io/tx/0x165426a5c8cce37a31fd1ec8fdd3adbc344fdbfc19937132d544dd2262f74b02)
    
    #### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
    
-## How do we feel about our project?
+### How do we feel about our project?
    We developed a **smart-contract** based on **Ethereum Blockchain**. While we **didn't** accomplish all of our objectives, we learnt a lot about decentralized platforms that run smart contracts (ETH and NEO Blockchain), and HyperLedger Fabric platform, and how to develop on top of them. It was our first time building something on top of blockchain platform, so we were very happy with our progress and with what we could present in the end.
    The **Volvo companion app** was made using **web technologies** to be easy to port between devices. We used HTML5, CSS and Javascript to make a user-friendly and fun web app. We aimed to build a car dashboard but time ran out on us.
    We feel like, in general, we learnt, coded and had fun during the cooking of this project.
   
-## What's next for DECAF
+### What's next for DECAF
    If we receive a positive feedback from **Volvo** and **Swisscom** we plan to build a **MVP (Minimun Viable Product)** and to croudfund this project through an **ICO** of **DECAF**.
