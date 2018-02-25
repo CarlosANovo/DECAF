@@ -47,19 +47,22 @@
     </style>
   </head>
   <body>
-    <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
-    
-        <div class="mdl-layout__header-row" style="padding: 0 16px 0 18px;">
+     <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+      <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
+        <div class="mdl-layout__header-row" style="padding: 0 0px 0 8px;">
           <p style="margin-top: 18px; font-size: 18px; padding-right: 6px;">LVL</p>
-          <p style="margin-top: 16px; background-color: rgb(0,188,212); border-radius: 50%; width: 28px; height: 30px; padding-left: 8px; padding-right: 0px; padding-top: 5px; font-weight:  600; color: #333; font-size: 16px;">21</p>
-          <div id="p1" class="mdl-progress mdl-js-progress" style="width: 150px; height: 12px;"></div>
+          <p style="margin-top: 16px; background-color: rgb(0,188,212); border-radius: 50%; width: 28px; height: 30px; padding-left: 8px; padding-right: 0px; padding-top: 5px; font-weight:  600; color: #333; font-size: 16px; margin-right: -2px;">21</p>
+          <div id="p1" class="mdl-progress mdl-js-progress" style="width: 130px; height: 12px;"></div>
           <script>
             document.querySelector('#p1').addEventListener('mdl-componentupgraded', function() {
               this.MaterialProgress.setProgress(44);
             });
           </script>
           <div class="mdl-layout-spacer"></div>
-         
+          <img src="images/flame.png" style="width: 30px;"></img>
+          <p style="margin-top: 18px; font-size: 18px; padding-right: 6px; color: #f39945;">5 DAYS</p>
+          <img src="images/volt2.png" style="width: 30px;"></img>
+          <p style="margin-top: 18px; font-size: 18px; padding-right: 8px; color: #1b1b1b; font-weight: 500;">62 VOLT</p>
         </div>
       </header>
 
