@@ -24,7 +24,7 @@
    **Volvo token** is how we imagine a car manufacturer implementing on top of our platform. The company will add cars to our platform that can then be requested by our users. They can also add quests and achievements to be completed by the users to improve **UX** by gamification and make people want to use their services over their competitors. If a user levels-up in the game, **Volvo** will give them tokens to award them for their fidelity by offering **VOLT**, the same being true if a user completes a certain special **Volvo** quest.
    This app adds fun and rewards to car sharing, making car sharing a service people will love to use.
    
-   ###By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
+   ### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
    
 ## What did we do?
    We developed a **smart-contract** based on **Ethereum Blockchain**. While we **didn't** accomplish all of our objectives, we learnt a lot about decentralized platforms that run smart contracts (ETH and NEO Blockchain), and HyperLedger Fabric platform, and how to develop on top of them. It was our first time building something on top of blockchain platform, so we were very happy with our progress and with what we could present in the end.
