@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Material Design Lite</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/android-desktop.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="images/ios-desktop.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!--
+    <link rel="canonical" href="http://www.example.com/">
+    -->
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.cyan-light_blue.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles/font-awesome.min.css">
+
+    <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+      <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
+        <div class="mdl-layout__header-row" style="padding: 0 16px 0 18px;">
+          <p style="margin-top: 18px; font-size: 18px; padding-right: 6px;">LVL</p>
+          <p style="margin-top: 16px; background-color: rgb(0,188,212); border-radius: 50%; width: 28px; height: 30px; padding-left: 8px; padding-right: 0px; padding-top: 5px; font-weight:  600; color: #333; font-size: 16px; margin-right: -2px;">21</p>
+          <div id="p1" class="mdl-progress mdl-js-progress" style="width: 130px; height: 12px;"></div>
+          <script>
+            document.querySelector('#p1').addEventListener('mdl-componentupgraded', function() {
+              this.MaterialProgress.setProgress(44);
+            });
+          </script>
+          <div class="mdl-layout-spacer"></div>
+          <img src="images/flame.png" style="width: 30px;"></img>
+          <p style="margin-top: 18px; font-size: 18px; padding-right: 6px; color: #f39945;">5 DAYS</p>
+        </div>
+      </header>
+      <main class="mdl-layout__content mdl-color--grey-100">
+        <div class="mdl-grid demo-content">
+          <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
+            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop" style="min-height: 0;">
+              <div class="mdl-card__title" style="background-color: #3f51b5 !important;">
+                <h2 class="mdl-card__title-text">My Profile
+                </h2>
+              </div>
+              <div class="mdl-card__supporting-text mdl-color-text--grey-600" style="font-size: 18px;">
+                  <img src="images/avatar.png" style="width: 80px; margin-top: -60px;"></img>
+                  <div style="display: inline-block; line-height: 27px;">
+                    <span style="font-weight: 600;">Name:</span><span style="position: absolute; left: 180px;">Ezequiel</span><br>
+                    <span style="font-weight: 600;">Age:</span><span style="position: absolute; left: 180px;">21</span><br>
+                    <span style="font-weight: 600;">Interests:</span><span style="position: absolute; left: 180px;">Heavy Metal, Electronics</span>
+                  </div>
+              </div>
+              <div class="mdl-card__actions mdl-card--border" style="text-align: right;">
+                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" style="background: #3f51b5; color: #fff;">
+                    Edit Profile
+                  </button>
+              </div>
+            </div>
+            <div class="demo-separator mdl-cell--1-col" style="height: 24px;"></div>
+            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop" style="min-height: 0;">
+              <div class="mdl-card__title" style="background-color: #d2d2d2 !important; display: block; color: #565656;">
+                <h2 class="mdl-card__title-text">
+                  My Profile
+                </h2><br>
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                  Button
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer class="fixed-bottom mdl-color--grey-100" style="text-align: center; min-height: 90px; box-shadow: 0 -3px 2px 0 rgba(0,0,0,.14), 0 -3px 1px -2px rgba(0,0,0,.2), 0 0px 5px 0 rgba(0,0,0,.12); z-index: 4;">
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-compass" style="color: #666; font-size: 75px;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-globe" style="color: #000; font-size: 75px;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <img src="./images/podium.png" style="width: 70px; height: auto; margin-top: -35px; image-rendering: -webkit-optimize-contrast;"></i>
+        </div>
+        <div style="display: inline-block; padding: 5px 15px;">
+          <i class="fa fa-shopping-cart" style="color: #666; font-size: 75px;"></i>
+        </div>
+      </footer>
+    </div>
+    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  </body>
+</html>
