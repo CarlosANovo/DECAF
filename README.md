@@ -5,9 +5,10 @@
    
 ## What does it do?
 
+ ### DECAF
+
 <img src="https://github.com/CarlosANovo/DECAF/blob/master/images/Decaf.png" width="200" height="200" />
 
-   ### DECAF
    **Decentralized car sharing made fun** is an Ethereum based platform that provides car manufacturers a way to enter the car-sharing business. Manufacturers add cars to the network and receive tokens for doing so. The more cars a manufacturer adds to **DECAF**, the more tokens get distributed to the car maker. These tokens are then given to users based on use-time, using services for multiple days in a row, achievements and quests. **DECAF tokens** are, by definition, **backed by cars**.
    
    #### How can you win tokens?
@@ -20,13 +21,16 @@
   When you request a car, you have the option to tell the platform where you are going. If another person is requesting a ride to go the same way, you can both accept sharing the car to devide the expense. You can see each other profiles and see their **DECAF** feedback, level in the game and if you have the same interests. If you are using a car with friends that use **DECAF**, everyone would win tokens and save money.
   **DECAF** also makes you compete with your friends or people in the same area to get on top of the usage leaderboard. You can win extra tokens for being a regural user, making many kilometers and spening a lot of time in the service.
   
-  <img src="https://github.com/CarlosANovo/DECAF/blob/master/images/volt.jpg" width="200" height="200" />
+  
   
    ### VOLT
+  
+  <img src="https://github.com/CarlosANovo/DECAF/blob/master/images/volt.jpg" width="200" height="200" />
+ 
    **Volvo token** is how we imagine a car manufacturer implementing on top of our platform. The company will add cars to our platform that can then be requested by our users. They can also add quests and achievements to be completed by the users to improve **UX** by gamification and make people want to use their services over their competitors. If a user levels-up in the game, **Volvo** will give them tokens to award them for their fidelity by offering **VOLT**, the same being true if a user completes a certain special **Volvo** quest.
    This app adds fun and rewards to car sharing, making car sharing a service people will love to use.
    
-   ### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
+   ###### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
    
 ## How do we feel about our project?
    We developed a **smart-contract** based on **Ethereum Blockchain**. While we **didn't** accomplish all of our objectives, we learnt a lot about decentralized platforms that run smart contracts (ETH and NEO Blockchain), and HyperLedger Fabric platform, and how to develop on top of them. It was our first time building something on top of blockchain platform, so we were very happy with our progress and with what we could present in the end.
