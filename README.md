@@ -42,3 +42,7 @@
   
 ### What's next for DECAF
    If we receive a positive feedback from **Volvo** and **Swisscom** we plan to build a **MVP (Minimun Viable Product)** and to croudfund this project through an **ICO** of **DECAF**.
+
+
+
+######Made with :heart: by ProtoTripeiros
