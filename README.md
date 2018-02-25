@@ -8,7 +8,7 @@
 ## What does it do?
 
    ### Decentralized car sharing made fun
-   **DECAF** is an Ethereum based platform that provides car manufacturers a way to enter the car-sharing business. Manufacturers add cars to the network and receive tokens doing so. The more cars a manufacturer adds for sharing on **DECAF**, the more tokens get distributed to the car maker. These tokens are then given to users based on use-time, streaks of use, achievements, quests. **DECAF** tokens are, by definition, **backed by cars**.
+   **DECAF** is an Ethereum based platform that provides car manufacturers a way to enter the car-sharing business. Manufacturers add cars to the network and receive tokens for doing so. The more cars a manufacturer adds to **DECAF**, the more tokens get distributed to the car maker. These tokens are then given to users based on use-time, using services for multiple days in a row, achievements and quests. **DECAF** tokens are, by definition, **backed by cars**.
    
    #### How can you win tokens?
    A user may win **tokens** and **XP** by requesting and using a certain manufacturer cars, by completing certain quests or unlocking achievements and each time you **level up** you win tokens. The **tokens** you receive can be given by more than one manufacturer, depending whose quests you completed, or by the time you used each brand's cars. There are also **special quests** which give **XP** aswell as **tokens**.
