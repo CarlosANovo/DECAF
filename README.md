@@ -8,20 +8,20 @@
 ## What does it do?
 
    ### Decentralized car sharing made fun
-   **DECAF** is an Ethereum based platform that provides car manufacturers a way to enter the car-sharing business. Manufacturers add cars to the network and receive tokens for doing so. The more cars a manufacturer adds to **DECAF**, the more tokens get distributed to the car maker. These tokens are then given to users based on use-time, using services for multiple days in a row, achievements and quests. **DECAF** tokens are, by definition, **backed by cars**.
+   **DECAF** is an Ethereum based platform that provides car manufacturers a way to enter the car-sharing business. Manufacturers add cars to the network and receive tokens for doing so. The more cars a manufacturer adds to **DECAF**, the more tokens get distributed to the car maker. These tokens are then given to users based on use-time, using services for multiple days in a row, achievements and quests. **DECAF tokens** are, by definition, **backed by cars**.
    
    #### How can you win tokens?
    A user may win **tokens** and **XP** by requesting and using a certain manufacturer cars, by completing certain quests or unlocking achievements and each time you **level up** you win tokens. The **tokens** you receive can be given by more than one manufacturer, depending whose quests you completed, or by the time you used each brand's cars. There are also **special quests** which give **XP** aswell as **tokens**.
    
   #### How to spend your tokens?
-  Tokens can be spent by users to enhance their experience. They can then be used to get discounts on the platform, VOLVO experiencies like  museum visits and discounts on an oil change. Discounts or vouchers of other services that want to partner with our platform can also be discounted by our tokens. For example, a restaurant or a zoo might want to offer a discount for certain tokens for the exposure it will have in our platform.
+  Tokens can be spent to **enhance UX**. They can then be used to get discounts on the platform, free experiencies like museum visits, or discounts on an oil change. Discounts or vouchers of other services that want to partner with **DECAF** can also use our tokens. For example, a restaurant or a zoo might want to offer a discount for certain tokens for the exposure it will have in our platform.
   
   #### Social
   When you request a car, you have the option to tell the platform where you are going. If another person is requesting a ride to go the same way, you can both accept sharing the car to share the expense. You can see each other profiles and see their feedback, level in the game and if you have the same interests.
-  DECAF also makes you compete with your friends or people in the same area to get on top of the leaderboard. You can win extra tokens for being a regural user, making many kilometers and spening a lot of time in the service.
+  **DECAF** also makes you compete with your friends or people in the same area to get on top of the usage leaderboard. You can win extra tokens for being a regural user, making many kilometers and spening a lot of time in the service.
   
    ### VOLT
-   **Volvo token** is how we imagine a car manufacturer implementing on top of our platform. **VOLVO** adds cars to our platform that can then be requested by our users. They can also add quests and achievements to be completed by the users to improve **UX** and make people want to use their services over their competitors. If a user levels-up in the game, Volvo will give them tokens to award them for their fidelity by offering **VOLT**, the same being true if a user completes a certain special Volvo quest.
+   **Volvo token** is how we imagine a car manufacturer implementing on top of our platform. The company will add cars to our platform that can then be requested by our users. They can also add quests and achievements to be completed by the users to improve **UX** by gamification and make people want to use their services over their competitors. If a user levels-up in the game, **Volvo** will give them tokens to award them for their fidelity by offering **VOLT**, the same being true if a user completes a certain special **Volvo** quest.
    This app adds fun and rewards to car sharing, making car sharing a service people will love to use.
    
    ####By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.#####
