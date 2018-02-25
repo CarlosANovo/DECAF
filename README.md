@@ -32,7 +32,7 @@
    
    Check the [Ethereum Smart Contract](https://github.com/CarlosANovo/DECAF/blob/master/Ethereum%20Smart%20Contract/VOLT.sol).
    
-   ###### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
+   #### By developing on top of **DECAF**, **Volvo** will be the **pioneer and fullfill once again their legacy of innovating and focusing on the user**.
    
 ## How do we feel about our project?
    We developed a **smart-contract** based on **Ethereum Blockchain**. While we **didn't** accomplish all of our objectives, we learnt a lot about decentralized platforms that run smart contracts (ETH and NEO Blockchain), and HyperLedger Fabric platform, and how to develop on top of them. It was our first time building something on top of blockchain platform, so we were very happy with our progress and with what we could present in the end.
